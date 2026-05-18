@@ -15,7 +15,7 @@ I am a **Full-Stack Developer** and **FiveM Developer** from Hungary. I speciali
 ## ⚡ Current Focus
 - **Web Development:** HTML, CSS, JavaScript
 - **FiveM Development:** Custom scripts, server architectures, and optimization
-- **Technical Founder** at Vortex Developments
+- **Technical Founder** at Infinitum Code
 
 ---
 
