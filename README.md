@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=szepidomi&section=header&fontSize=50&reversal=false&textBg=false&animation=twinkling&descAlign=50&descAlignY=47&fontAlignY=40&descSize=25" />
 </div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=DEVELOPER)](https://git.io/typing-svg)
+
 # 👋 Hi, I'm szepidomi
 
 I am a **Full-Stack Developer** and **FiveM Developer** from Hungary. I specialize in creating **modern web applications** and **custom FiveM scripts**, turning complex ideas into clean, efficient code.
