@@ -51,4 +51,4 @@ I am a **Full-Stack Developer** and **FiveM Developer** from Hungary. I speciali
 ## 📞 Connect With Me
 
 [![Discord](https://img.shields.io/badge/Discord-szepidomi-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/szepidomi)  
-[![Website](https://img.shields.io/badge/Website-szepidomi.dev-0f172a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://szepidomi.kesug.io)
+[![Website](https://img.shields.io/badge/Website-szepidomi.kesug.io-0f172a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://szepidomi.kesug.io)
