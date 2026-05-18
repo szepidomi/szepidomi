@@ -34,8 +34,9 @@ I am a **Full-Stack Developer** and **FiveM Developer** from Hungary. I speciali
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=szepidomi&theme=tokyonight&hide_border=true)
+<div align="center">
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=szepidomi&theme=tokyonight&hide_border=true)
+</div>
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=szepidomi&theme=tokyo-night&hide_border=true)
 
 ---
