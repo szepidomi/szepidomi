@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=szepidomi&section=header&fontSize=50&reversal=false&textBg=false&animation=twinkling&desc=developer&descAlign=50&descAlignY=47&fontAlignY=24&descSize=25" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=szepidomi&section=header&fontSize=50&reversal=false&textBg=false&animation=twinkling&descAlign=50&descAlignY=47&fontAlignY=40&descSize=25" />
 </div>
 
 # 👋 Hi, I'm szepidomi
